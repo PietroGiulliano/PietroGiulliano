@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/SEU-BANNER.png" />
-</p>
+
 
 <h1 align="center">👨‍💻 Pietro Giulliano</h1>
 
