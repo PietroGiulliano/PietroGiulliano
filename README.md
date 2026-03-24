@@ -26,21 +26,12 @@ Tenho interesse nas áreas de:
 - ⚙️ Ferramentas: `Git`, `GitHub`, `VS Code`
 - 🌐 Frameworks/Bibliotecas: `React` (em aprendizado)
 
----
 
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contato
 
-- 📧 Email: seuemail@email.com  
-- 📸 Instagram: https://instagram.com/seuuser  
-- 💼 LinkedIn: https://linkedin.com/in/seuuser  
+- 📧 Email: pietrocotta195@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pietro-giulliano-8430bb397/  
 
 ---
 
