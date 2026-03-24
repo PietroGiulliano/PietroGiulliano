@@ -1,44 +1,75 @@
-# 👨‍💻 Pietro Giulliano
+<h1 align="center">👨‍💻 Pietro Giulliano</h1>
 
-🎓 Estudante de Ciência da Computação  
-💻 Desenvolvedor em formação  
-🚀 Apaixonado por tecnologia, programação e inovação  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Futuro+Full+Stack" />
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Olá! Me chamo **Pietro Giulliano** e estou em constante evolução no mundo da tecnologia.  
-Atualmente curso **Ciência da Computação**, buscando desenvolver habilidades sólidas em desenvolvimento de software, resolução de problemas e criação de soluções inovadoras.
-
-Tenho interesse nas áreas de:
-
-- 💻 Desenvolvimento Web  
-- ⚙️ Backend  
-- 📱 Tecnologias modernas  
-- ☁️ Computação em Nuvem  
+🎓 Estudante de Ciência da Computação  
+💻 Focado em Desenvolvimento Web  
+📈 Evoluindo todos os dias  
+🔥 Em busca da primeira oportunidade  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack
 
-- 💡 Linguagens: `JavaScript`, `Python`, `HTML`, `CSS`
-- ⚙️ Ferramentas: `Git`, `GitHub`, `VS Code`
-- 🌐 Frameworks/Bibliotecas: `React` (em aprendizado)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
 
+---
 
+## 📊 Estatísticas
+
+<p align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🌐 Portfólio
+🔗 https://SEU-LINK-VERCEL.vercel.app  
+📁 https://github.com/SEU-USUARIO/Portifolio  
+
+📝 Site pessoal para apresentar meus projetos e habilidades.
+
+---
+
+### 💻 Projeto Futuro
+🔗 Em breve  
+📁 Em breve  
+
+📝 Em desenvolvimento...
+
+---
 
 ## 📫 Contato
 
-- 📧 Email: pietrocotta195@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/pietro-giulliano-8430bb397/  
+<p align="center">
+
+
+
+<a href="https://www.linkedin.com/in/pietro-giulliano-8430bb397/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
 
 ---
 
-## 🌟 Objetivo
+## 🧠 Atualmente estudando
 
-Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos, aprender com profissionais experientes e crescer como desenvolvedor.
+- JavaScript avançado  
+- React  
+- Backend  
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+<p align="center">🔥 Rumo ao nível profissional</p>
