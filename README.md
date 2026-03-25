@@ -11,7 +11,7 @@
 ## 🚀 Sobre mim
 
 🎓 Estudante de Ciência da Computação  
-💻 Focado em Desenvolvimento Web  
+💻 Focado em Desenvolvimento Full Stack
 📈 Evoluindo todos os dias  
 🔥 Buscando minha primeira oportunidade na área  
 
@@ -57,8 +57,8 @@
 ## 🧠 Atualmente estudando
 
 - JavaScript avançado  
-- React  
-- Backend  
+- Front end 
+- Back end  
 
 ---
 
